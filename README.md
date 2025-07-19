@@ -6,7 +6,7 @@
 - 🤔 Buscando um espaço para compartilhar meus aprendizados e evoluir constantemente na área de tecnologia.  
 - 💬 Aqui compartilho projetos que representam meu progresso como estudante de tecnologia.  
 
-<div align="left" style="display: flex; align-items: flex-start; gap: 20px;">
+<div align="left" style="display: flex; align-items: flex-start; gap: 20 px;">
   <img src="https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" height="250"/>
   <img src="https://github.com/user-attachments/assets/1029bb40-22ed-437b-8e3f-66a6454a7982" alt="GIF" height="250"/>
 </div>
@@ -32,3 +32,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+![snake gif](https://github.com/JaqueSantos23/JaqueSantos23/blob/output/github-contribution-grid-snake.svg)

@@ -8,13 +8,23 @@
 
 ---
 
-<div align="center" style="display: flex; align-items: flex-start; gap: 20 px;">
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="250" src="https://github.com/user-attachments/assets/1029bb40-22ed-437b-8e3f-66a6454a7982" alt="GIF animado"/>
-</div>
+<!-- Tabela para alinhar Stats e GIF lado a lado -->
+<table>
+  <tr>
+    <!-- Coluna esquerda: GitHub Stats -->
+    <td>
+      <img height="250" src="https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <!-- ⚠️ Substitua o link abaixo pelo link correto do seu GIF (ver instrução abaixo) -->
+     <img height="250" src="https://github.com/user-attachments/assets/1029bb40-22ed-437b-8e3f-66a6454a7982" alt="GIF animado"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueSantos23&layout=compact&theme=radical"/>
+<!-- Linguagens usadas, abaixo dos Stats -->
+<div align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueSantos23&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </div>
 
 ---

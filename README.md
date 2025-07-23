@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center" style="display: flex; align-items: flex-start; gap: 20px;">
+<div align="center" style="display: flex; align-items: flex-start; gap: 20 px;">
   <img height="250" src="https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="250" src="https://github.com/user-attachments/assets/1029bb40-22ed-437b-8e3f-66a6454a7982" alt="GIF animado"/>
 </div>

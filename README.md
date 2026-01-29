@@ -7,12 +7,43 @@
 - 💬 Aqui compartilho projetos que representam meu progresso como estudante de tecnologia.  
 
 ---
-<p align="center">
-  <img src="https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&theme=dark" />
-</p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 
+<br>
 
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+</div>
+
+<div align="center">
+  
+  <samp>
+      <br>
+      Olá, Tudo Bem? Eu sou <b>Jaqueline Santos</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=Eu+sou+Estudante;Estudo+Analise+e+Desenvolvimento+de+Sistemas;Futura+Programadora+Mobile;Seja+Bem-vindo!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+      
+<br>
+<br>
+      
+<div align="center">
+<div align="center">
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JaqueSantos23&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueSantos23&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
+</div>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaqueSantos23&theme=zenburn"/>
+</div>
+---
 <table>
   <tr>
     <td>
@@ -20,7 +51,6 @@
     </td>
   </tr>
 </table>
-
 
 
 ---

@@ -7,8 +7,7 @@
 - 💬 Aqui compartilho projetos que representam meu progresso como estudante de tecnologia.  
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&rank_icon=github&theme=tokyonight)
-
+![Jaque Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&theme=dark)
 
 
 <table>

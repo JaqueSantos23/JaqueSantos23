@@ -7,13 +7,12 @@
 - 💬 Aqui compartilho projetos que representam meu progresso como estudante de tecnologia.  
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&rank_icon=github&theme=tokyonight)
+
 
 
 <table>
   <tr>
-    <td>
-      <img height="250" src="https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </td>
     <td>
      <img height="250" src="https://github.com/user-attachments/assets/1029bb40-22ed-437b-8e3f-66a6454a7982" alt="GIF animado"/>
     </td>
@@ -21,17 +20,10 @@
 </table>
 
 
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueSantos23&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</div>
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaqueSantos23&theme=radical&row=1&column=6" alt="Troféus do GitHub"/>
-</div>
 
----
 
 ### 🛠️ Tecnologias que estou aprendendo:
 

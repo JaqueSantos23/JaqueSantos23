@@ -1,10 +1,10 @@
 ## Olá, Eu sou Jaqueline Santos 👋
 
-- 🔭 Hoje trabalho como auxiliar de farmácia.  
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho.  
-- 👯 Repositório criado como parte da minha jornada em ADS.  
-- 🤔 Buscando um espaço para compartilhar meus aprendizados e evoluir constantemente na área de tecnologia.  
-- 💬 Aqui compartilho projetos que representam meu progresso como estudante de tecnologia.  
+- 🔭 Hoje trabalho como auxiliar de farmácia.
+- 🌱 Estudo Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho.
+- 👯 Repositório criado como parte da minha jornada em ADS.
+- 🤔 Buscando um espaço para compartilhar meus aprendizados e evoluir constantemente na área de tecnologia.
+- 💬 Aqui compartilho projetos que representam meu progresso como estudante de tecnologia.
 
 ---
 
@@ -17,7 +17,6 @@
 </div>
 
 <div align="center">
-  
   <samp>
       <br>
       Olá, Tudo Bem? Eu sou <b>Jaqueline Santos</b>
@@ -29,33 +28,22 @@
 </div>
 
 <br>
-
-      
 <br>
-<br>
-      
-<div align="center">
-<div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JaqueSantos23&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueSantos23&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
-</div>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaqueSantos23&theme=zenburn"/>
-</div>
----
-<table>
-  <tr>
-    <td>
-     <img height="250" src="https://github.com/user-attachments/assets/1029bb40-22ed-437b-8e3f-66a6454a7982" alt="GIF animado"/>
-    </td>
-  </tr>
-</table>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&theme=dark&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueSantos23&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaqueSantos23&theme=zenburn" alt="Profile Details" />
+</div>
 
 ---
 
+<div align="center">
+  <img height="250" src="https://github.com/user-attachments/assets/1029bb40-22ed-437b-8e3f-66a6454a7982" alt="GIF animado"/>
+</div>
 
+---
 
 ### 🛠️ Tecnologias que estou aprendendo:
 
@@ -63,7 +51,7 @@
   <img align="center" alt="Jaque-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jaque-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jaque-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>  
+</div>
 
 ---
 

@@ -30,12 +30,12 @@
 <br>
 <br>
 
+
 ![GitHub Stats](https://stats-lyart.vercel.app/api?username=JaqueSantos23&show_icons=true&theme=radical)
+![Top Langs](https://stats-lyart.vercel.app/api/top-langs/?username=JaqueSantos23&layout=compact&theme=radical)
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaqueSantos23&show_icons=true&theme=dark&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueSantos23&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+<div>
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaqueSantos23&theme=zenburn" alt="Profile Details" />
 </div>

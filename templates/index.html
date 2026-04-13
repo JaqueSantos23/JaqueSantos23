@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FarmaMais</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='FarmaMais.css') }}">
+<!--Biblioteca de icones-->
+      <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  
+    <div class="banner">
+ <img src="../static/imagens/LogoFarmaMais.png">
+     <p>Venha conhecer as nossas melhores ofertas do momento!</p>
+     </div>
+   <div class="pesquisa">
+      <input type="text" placeholder="Pesquisar produtos...">
+      <button>🔍</button>
+    </div>
+    <br>
+<div class="menu">
+  <a href="{{ url_for('mais_buscados') }}" class="item">Mais Buscados</a>
+  <a href="{{ url_for('ofertas') }}" class="item">Ofertas</a>
+  <a href="{{ url_for('perfumaria') }}" class="item">Perfumaria</a>
+  <a href="{{ url_for('medicamentos') }}" class="item">Medicamentos</a>
+</div>
+      <h3>Bem-Vindo a FarmaMais, à Farmácia mais Popular do Brasil!</h3>
+    </div>
+
+    <div class="carrossel">
+        <div class="slides">
+           <img src="{{ url_for('static', filename='imagens/banner elseve.png') }}">
+           <img src="{{ url_for('static', filename='imagens/Fralda pampers banner.png') }}">
+           <img src="{{ url_for('static', filename='imagens/medicamntos genericos banner.png') }}">
+        </div>
+    </div>
+      <h1>Medicamentos genéricos mais procurados no Momento!</h1>
+    <div class="produtos">
+    <div class="card">
+        <img src="https://d1jgmae0hcnr1i.cloudfront.net/Custom/Content/Products/90/01/90019_atenolol-25-mg-c-60-cp-p64835_z1_638284645847741626.webp" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+        </div>
+
+        <div class="card">
+        <img src="https://d1jgmae0hcnr1i.cloudfront.net/Custom/Content/Products/91/67/91673_losartana-potassica-50-mg-c-30-cp-rev-p67633_z1_638375339080967822.webp" alt="Produto">
+       <p class="preco"> R$ 6,99 3 unid por 15,00 </p>
+       <button class="btn-add">Adicionar</button>
+        </div>
+
+         <div class="card">
+        <img src="https://d1jgmae0hcnr1i.cloudfront.net/Custom/Content/Products/93/08/93082_sinvastatina-20-mg-c-30-cp-rev-p70610_z1_638288353718338615.webp" alt="Produto">
+       <p class="preco"> R$ 19,99</p>
+       <button class="btn-add">Adicionar</button>
+         </div>
+
+          <div class="card">
+        <img src="https://uploads.consultaremedios.com.br/product_variation_images/full/8f6b7bbaab8c6cb6acc29804555b0891383fb5f8.JPG?1628871696" alt="Produto">
+       <p class="preco"> R$ 29,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div> 
+
+            <div class="card">
+        <img src="https://drogal.vtexassets.com/arquivos/ids/250632-800-600?v=638775564271970000&width=800&height=600&aspect=true" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+
+        </div>  <h1>Cosméticos</h1> 
+            <div class="produtos">
+       <div class="card">
+        <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHJf3x6GcDk_5Lnl9uPuW7OQMQYtoMPSuNPKNDFZYXOE2Zgp6oXFu25McyJYDGgcGVSR1LSBM-EFcotd-MfH_0mlM0hR5Z8NQd3PSAQ2zKOw-1Hr6qKrQb6Q" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+
+           <div class="card">
+        <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQNq-1yC2oQpKL7pXRhLDwe6BIpumpGipBBI-08sCk2Zxjecgz6rptpdpN--LmL_eqNYdpbqAlJeG12y6zuzZHm8Pc1qC6vlrtdpKlCJ_tJWscEWgxSwKJy" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+           <div class="card">
+        <img src="https://acdn-us.mitiendanube.com/stores/002/267/890/products/43478fd91247904f3dc54740585d66f8-59ec12d94a64a5975d17055198604099-1024-1024.webp" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+           <div class="card">
+        <img src="https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fproduct-data.raiadrogasil.io%2Fimages%2F4058764.webp&w=828&q=75" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+           <div class="card">
+        <img src="https://cdn.dooca.store/148383/products/xwezroajgzkwfd7mraindhet0ybyiorl5aul_1600x1600+fill_ffffff.jpg?v=1748634168" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+
+
+        </div> <h1>Vitaminas</h1>
+        <div class="produtos">
+            <div class="card">
+        <img src="https://drogariasp.vteximg.com.br/arquivos/ids/898098-1000-1000/384054---omega-3-1000mg-catarinense-120-capsulas-1.jpg?v=638198655136230000" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+            <div class="card">
+        <img src="https://images.tcdn.com.br/img/img_prod/740081/biotina_45_mcg_60_caps_6717_1_3c3de2b239566fe8911ef5303dd6a956.png" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+            <div class="card">
+        <img src="https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fproduct-data.raiadrogasil.io%2Fimages%2F7363173.webp&w=3840&q=40" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+            <div class="card">
+        <img src="https://nexodata.vtexassets.com/arquivos/ids/185360-800-800?v=638109076204870000&width=800&height=800&aspect=true" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+
+            <div class="card">
+        <img src="https://http2.mlstatic.com/D_NQ_NP_836088-MLB90541063271_082025-O.webp" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+
+           </div> <h1>Suplementos</h1>
+             <div class="produtos">
+
+                <div class="card">
+        <img src="https://http2.mlstatic.com/D_NQ_NP_2X_657448-MLB86746185320_072025-F.webp" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+
+             <div class="card">
+        <img src="https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fproduct-data.raiadrogasil.io%2Fimages%2F16980845.webp&w=828&q=75" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+
+             <div class="card">
+        <img src="https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fproduct-data.raiadrogasil.io%2Fimages%2F3450346.webp&w=828&q=75" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+
+             <div class="card">
+        <img src="https://images.nutrii.com.br/unsafe/1200x/filters:quality(80)/https://store.nutrii.com.br/media/catalog/product/n/u/nutren-senior-sem-sabor---370g-20241024-1.png" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+
+             <div class="card">
+        <img src="https://drogal.vtexassets.com/arquivos/ids/230213-800-600?v=638575092278770000&width=800&height=600&aspect=true" alt="Produto">
+       <p class="preco"> R$ 9,99</p>
+       <button class="btn-add">Adicionar</button>
+          </div>
+
+        </div>
+    </div>
+
+    <footer class="rodape">
+        <h3>Nosssos Atendimentos</h3>
+        <p>📞 Telefone: (11) 4002-8922</p>
+        <p>📧 Email: atendimento@farmamais.com</p>
+        <p>📍 São Paulo - SP</p>
+    </footer>
+</body>
+</html>
+      
+
+
